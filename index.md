@@ -10,44 +10,71 @@ Via [@clowwindy](https://twitter.com/clowwindy) - https://www.v2ex.com/t/166417#
 
 ## 更新记录
 
+2017年11月11日 - copy from internet
+
 2017年08月01日 - 更新中国App Store下架翻墙软件的临时解决方案，增加国外访问国内加速器快帆
+
 2017年07月31日 - 更新梅林固件软件中心内翻墙软件shadowsocks下架的临时解决方案，增加丝滑云
+
 2017年06月21日 - 移除百度浏览器/赛风，增加开源方案MEOW，增加路由器固件KoolShare，增加付费方案VPNso
+
 2017年04月14日 - 增加iOS免费方案Shadowsocks Wingy
+
 2017年02月09日 - 更新shadowsocks.com为shadowsocks.com.hk
+
 2017年01月24日 - 移除土行孙，更新shadowsocksr-csharp/shadowsocks-windows/ShadowsocksX-NG/shadowsocks-android
+
 2016年08月23日 - 恢复土行孙，增加COW，分离Shadowsocks/ShadowsocksR/ShadowsocksX-R
+
 2016年04月29日 - 移除土行孙，增加V2Ray，影梭，Shadowrocket，佛跳墙
+
 2016年02月23日 - 增加Surge，感谢@刘亚晨
+
 2016年01月08日 - 增加首选免费方案XX-Net，更新付费方案土行孙
+
 2015年12月23日 - 尊重@东哥的要求，移除XXX
+
 2015年11月28日 - 更新XXX和土行孙付费方案
+
 2015年10月11日 - 移除fqrouter和红杏，增加shadowsocks-android和GreenVPN
+
 2015年08月31日 - Thanks @clowwindy & @breakwa11, and all of the contributor of the shadowsocks.
+
 2015年08月11日 - 移除GoAgentX，感谢@ohdarling
+
 2015年08月06日 - 移除曲径，感谢两位前盛大创新院朋友做出的贡献，尊重你们的决定
+
 2015年05月22日 - 移除所有Goagent项目，增加赛风/红杏/Shadowsocks免费账号
+
 2015年03月08日 - fqrouter复活，新增免费方案百度浏览器
+
 2015年02月07日 - 修改细节描述，避免误导大家
+
 2015年02月03日 - 更换网址为f(翻)q(墙)，感谢fqrouter作者做出的贡献
+
 2014年11月30日 - 完善内容，标注自用首选免费和付费翻墙方案
+
 2014年08月24日 - 新增免费方案GoAgent+，付费方案商业版Shadowsocks
+
 2014年06月15日 - 新增Buckyball浏览器，父亲节快乐
+
 2014年06月13日 - 补充Mac/iOS方案
+
 2014年06月12日 - 撰写初稿
 
 阅读原文 - https://wsgzao.github.io/post/fq/
 
-扩展阅读
+**扩展阅读**
 
 - Contributors - http://shadowsocks.org/en/about/contributors.html
+
 - 科学上网利器 Shadowsocks 使用方法 - http://ttt.tt/150/
 
 ---
 
 ## 简单验证是否被墙
 
->如果你不能访问以下网址，那恭喜你生活在墙的有效保护区内，关键字智能屏蔽效果如下
+> 如果你不能访问以下网址，那恭喜你生活在墙的有效保护区内，关键字智能屏蔽效果如下
 
 http://wsgzao.github.io/post/gfw-break/
 
@@ -55,7 +82,7 @@ http://wsgzao.github.io/post/gfw-break/
 
 ## 免费方案
 
->各个平台的解决方案都不唯一，请认真阅读原文中的说明部分
+> 各个平台的解决方案都不唯一，请认真阅读原文中的说明部分
 
 ### XX-Net
 
@@ -121,7 +148,9 @@ http://ss.ishadowx.com/
 - 请切换除中国区以外的账号登录，比如美国的App Store
 
 http://yach.me/
+
 https://itunes.apple.com/app/shadowrocket/id932747118
+
 https://itunes.apple.com/app/wingy-mian-fei-banvpn-ke-hu/id1148026741
 
 ---
@@ -133,6 +162,7 @@ https://itunes.apple.com/app/wingy-mian-fei-banvpn-ke-hu/id1148026741
 > 路由器固件有很多比如OpenWRT/DD-WRT/Merlin/Tomato等，我这里推荐使用koolshare编译的版本
 
 http://firmware.koolshare.cn/
+
 https://github.com/koolshare/koolshare.github.io/tree/acelan_softcenter_ui/shadowsocks
 
 ``` bash
